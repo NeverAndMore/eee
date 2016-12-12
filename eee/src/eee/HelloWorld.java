@@ -2,6 +2,6 @@ package eee;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("hello world oyeye");
+		System.out.println("hello world oyeye2");
 	}
 }
